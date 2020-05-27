@@ -1,3 +1,3 @@
-This is my Natrual Language Processing class note.
-Most of the code is orignated by me, whilst maybe mixed with some leacture & oneline course note.
-If you having isuue with your part materials, please let me know. I am really treasure your brainchild.
+This is my Natrual Language Processing class note. I'd like to open it and share with Githuber. 
+
+Declaration:The code and text mainly from myself whilst some may from other course authors, please let me know if you need remove your part,I am truely appriciate and treausure your brainchild to this community.
