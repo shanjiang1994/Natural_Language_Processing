@@ -10,4 +10,4 @@ Instructor: *Jose Portilla*
 
 ## **Declaration:**
 
-*The code and text mainly from myself whilst some may from other course authors, please let me know if you need remove your part,I am truely appriciate and treausure your brainchild to this community.*
+*The code and text mainly from myself whilst some may from course instructor and other authors, please let me know if you need remove your part,I am truely appriciate and treausure your brainchild to this community.*
